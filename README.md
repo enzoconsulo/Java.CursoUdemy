@@ -28,7 +28,7 @@ Contém dois exercícios:
 - **Exercicio4_1**: Lê uma lista de números e exibe apenas os negativos.
 - **Exercicio4_2**: Lê dados de várias pessoas (nome, idade, altura), calcula a altura média e a porcentagem de menores de idade.
 
-Cada exercício possui um **README.txt específico** em sua respectiva pasta, explicando em detalhes o funcionamento, objetivo e estrutura de código.
+Cada exercício possui um **README.md específico** em sua respectiva pasta, explicando em detalhes o funcionamento, objetivo e estrutura de código.
 
 ---
 
