@@ -32,8 +32,8 @@ java -cp ../bin main.Main
 Siga as instruções no console para realizar depósitos e saques, observando os tratamentos de erro.
 
 ## 📚 Conceitos Envolvidos
-Exceções personalizadas (AccountException)
+- **Exceções personalizadas (AccountException)**
 
-Blocos try/catch
+- **Blocos try/catch**
 
-Encapsulamento e validação de regras de negócio
+- **Encapsulamento e validação de regras de negócio**
