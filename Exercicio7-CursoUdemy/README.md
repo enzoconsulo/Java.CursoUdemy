@@ -36,7 +36,7 @@ Executar:
 java -p ../bin -m exercicio7.project/Project
 Siga as instruções no console para fornecer os dados do cliente, status e itens.
 
-📚 Conceitos Envolvidos
+## 📚 Conceitos Envolvidos
 Módulos Java (module-info.java)
 
 Orientação a objetos (classes e relacionamentos)
