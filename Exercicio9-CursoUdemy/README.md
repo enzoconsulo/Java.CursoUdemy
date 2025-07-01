@@ -36,11 +36,11 @@ Executar:
 java -p ../bin -m exercicio9.exerciciojava3/Main
 Preencha no console os dados de cada contribuinte conforme solicitado.
 
-📚 Conceitos Envolvidos
-Classes abstratas e herança
+## 📚 Conceitos Envolvidos
+- **Classes abstratas e herança**
 
-Listas de objetos (List<Contribuinte>)
+- **Listas de objetos (List<Contribuinte>)**
 
-Laços de repetição e condicionais
+- **Laços de repetição e condicionais**
 
 Cálculos financeiros básicos

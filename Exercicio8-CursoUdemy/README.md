@@ -37,9 +37,9 @@ Executar:
 java -p ../bin -m exercicio8.project/Project
 Informe no console a quantidade e os dados de cada produto conforme solicitado.
 
-📚 Conceitos Envolvidos
-Herança e subclasses
+## 📚 Conceitos Envolvidos
+- **Herança e subclasses**
 
-Polimorfismo (método sobrescrito)
+- **Polimorfismo (método sobrescrito)**
 
-Uso de Scanner para entrada de dados
+- **Uso de Scanner para entrada de dados**
