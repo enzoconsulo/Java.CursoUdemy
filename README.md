@@ -6,10 +6,10 @@ Este repositório contém os exercícios desenvolvidos durante o curso **Java CO
 
 ## ✔️ O que o curso ensina:
 
-- POO com Java de forma prática e teórica
-- Criação de soluções reutilizáveis, testáveis e organizadas
-- Desenvolvimento com UML, desktop, banco de dados, Spring Boot e NoSQL
-- Aplicação de boas práticas e resolução de problemas reais
+* POO com Java de forma prática e teórica
+* Criação de soluções reutilizáveis, testáveis e organizadas
+* Desenvolvimento com UML, desktop, banco de dados, Spring Boot e NoSQL
+* Aplicação de boas práticas e resolução de problemas reais
 
 ---
 
@@ -31,8 +31,8 @@ Permite criar uma conta bancária com depósito inicial (opcional), além de ope
 
 Contém dois exercícios:
 
-- **Exercicio4\_1**: Lê uma lista de números e exibe apenas os negativos.
-- **Exercicio4\_2**: Lê dados de várias pessoas (nome, idade, altura), calcula a altura média e a porcentagem de menores de idade.
+* **Exercicio4\_1**: Lê uma lista de números e exibe apenas os negativos.
+* **Exercicio4\_2**: Lê dados de várias pessoas (nome, idade, altura), calcula a altura média e a porcentagem de menores de idade.
 
 ### 🔹 Exercício 5 – Funcionário e Cálculo de Salário
 
@@ -59,10 +59,16 @@ Pratica herança e polimorfismo, diferenciando produtos comuns, importados e usa
 Desenvolve um programa para calcular impostos de contribuintes, utilizando classes abstratas, herança e listas de objetos.
 
 ### 🔹 Exercício 10 – Tratamento de Exceções em Conta Bancária
+
 Implementa uma classe de conta bancária com exceções personalizadas para validar operações de saque e depósito.
 
+### 🔹 Exercício 11 – Processamento de Arquivos CSV
+
+Pratica a leitura e escrita de arquivos CSV em Java, manipulação de listas, cálculo de valores agregados e tratamento de exceções usando try-with-resources.
+
 ### 🔹 Exercício 12 – Processamento de Contrato com Parcelas
-Pratica o uso de **interfaces**, **listas**, manipulação de **datas** com `java.time` e o **padrão Strategy** para cálculo de parcelas de um contrato.
+
+Pratica o uso de interfaces, listas, manipulação de datas com `java.time` e o padrão Strategy para cálculo de parcelas de um contrato.
 
 ---
 
