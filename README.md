@@ -42,10 +42,6 @@ Pratica leitura de dados via `Scanner`, encapsulamento, cálculo de salário lí
 
 Pratica o uso de matrizes bidimensionais, laços de repetição, entrada de dados via `Scanner` e condições para navegação entre elementos adjacentes.
 
-### 🔹 Exercício 6 – Busca em Matriz
-
-Pratica o uso de matrizes bidimensionais, laços de repetição, entrada de dados via `Scanner` e condições para navegação entre elementos adjacentes.
-
 ### 🔹 Exercício 7 – Sistema de Pedidos com Módulos e Enum
 
 Implementa um sistema de pedidos que explora o uso de módulos Java, orientação a objetos e enumerações para gerenciar o status de um pedido.
@@ -70,6 +66,14 @@ Pratica a leitura e escrita de arquivos CSV em Java, manipulação de listas, c�
 
 Pratica o uso de interfaces, listas, manipulação de datas com `java.time` e o padrão Strategy para cálculo de parcelas de um contrato.
 
+### 🔹 Exercício 13 – Contagem de Alunos por Curso com Set (ED Set)
+
+Pratica o uso de coleções do tipo `Set` para gerenciar registros de alunos e calcular o total de alunos únicos matriculados em três cursos diferentes, evitando duplicatas.
+
+### 🔹 Exercício 14 – Sumário de Votos por Candidato com Map
+
+Pratica o uso de `Map` e `TreeMap`, leitura de arquivos CSV e manipulação de dados para contabilizar e exibir, em ordem alfabética, o total de votos de cada candidato a partir de um arquivo `results.csv`.
+
 ---
 
 ## ▶️ Como executar
@@ -81,5 +85,3 @@ Pratica o uso de interfaces, listas, manipulação de datas com `java.time` e o 
 ---
 
 Este repositório está em constante evolução com os exercícios do curso. Ideal tanto para estudo quanto como portfólio pessoal.
-
-analise
