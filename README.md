@@ -74,6 +74,15 @@ Pratica o uso de coleções do tipo `Set` para gerenciar registros de alunos e c
 
 Pratica o uso de `Map` e `TreeMap`, leitura de arquivos CSV e manipulação de dados para contabilizar e exibir, em ordem alfabética, o total de votos de cada candidato a partir de um arquivo `results.csv`.
 
+### 🔹 Exercício 15 – Filtragem e Soma de Salários com Lambda, Stream e CSV
+
+Foca na utilização de **expressões lambda** com a API de Streams do Java 8. A partir de um arquivo CSV com dados de funcionários, o programa:
+
+* Filtra e ordena e-mails de funcionários com salário acima de um valor informado.
+* Soma os salários dos funcionários cujo nome começa com 'M'.
+
+Opera inteiramente com expressões lambda e métodos funcionais como `filter`, `map`, `sorted`, `collect` e `reduce`.
+
 ---
 
 ## ▶️ Como executar
